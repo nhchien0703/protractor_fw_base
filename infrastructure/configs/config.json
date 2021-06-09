@@ -1,0 +1,10 @@
+{
+    "config":{
+      "testingUrl": "https://clark.titusgt.com:10842/#/login",
+      "username": "Manni",
+      "password": "manni",
+      "reportDir":"report",
+      "retryTime": 5
+    }
+ }
+ 

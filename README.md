@@ -1,6 +1,9 @@
 # protractor_fw_base
 A project base for protractor
 
+#References
+http://www.protractortest.org/
+
 # Install
 ```bash
 npm i
